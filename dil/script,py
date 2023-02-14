@@ -1,0 +1,4 @@
+import sys
+
+auth = sys.argv[1]
+print("The authentication string is:", auth)
